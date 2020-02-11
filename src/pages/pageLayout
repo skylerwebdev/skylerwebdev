@@ -1,0 +1,20 @@
+    <div className="mnPg">
+
+      <div className="mnBd">
+        <div className="mnBdTp">
+          <div className="mnBdTpLt"></div>
+          <div className="mdBdTpCt"></div>
+          <div className="mnBdTpRt"></div>
+        </div>
+        <div className="mdBdCt">
+          <div className="mnBdCtLt"></div>
+          <div className="mdBdCtCt"></div>
+          <div className="mnBdCtRt"></div>
+        </div>
+        <div className="mnBdBt">
+            <div className="mnBdBtLt"></div>
+            <div className="mnBdBtCt"></div>
+            <div className="mnBdBtRt"></div>
+        </div>
+      </div>
+    </div>

@@ -1,0 +1,35 @@
+.mnBd{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+}
+.mission{
+    margin-top: -20px;
+}
+.portfolioPhoto{
+    width: 50%;
+    border: 2px solid black;
+    box-shadow: 3px 3px 5px grey;
+    cursor: pointer;
+}
+a{
+text-decoration: underline;
+    color:black;
+}
+.mnLt, .mnRt{
+    flex: 1 1 0px;
+}
+.modalImg{
+    width:100%;
+}
+@media screen and (min-width: 768px) {
+.mnBd{
+    flex-direction: row;
+}
+.modalImg{
+    width:100%;
+}
+}

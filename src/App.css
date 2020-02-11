@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100%;
+  font-family: 'Roboto';
+}
+
+
+@media screen and (min-width: 768px) {
+  .App{
+    width: 75%;
+    margin: 0 auto;
+  }
+}
